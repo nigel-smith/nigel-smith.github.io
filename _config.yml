@@ -3,9 +3,9 @@
 theme: *folio
 title: Nigel Smith
 email: nigel@nigelsmith.co.uk
-description: Check back for updates often
+description: Check back for updates often > 
 
-# > this means to ignore newlines until "baseurl:"
+#this means to ignore newlines until "baseurl:"
 #  A simple, whitespace, helvetica based portfolio theme.
 #baseurl:  # the subpath of your site, e.g. /blog/
 #url:  # the base hostname & protocol for your site
@@ -18,8 +18,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Pagination
-#paginate: 15
-#paginate_path: "/blog/page:num/"
+paginate: 15
+paginate_path: "/blog/page:num/"
 
 
 collections:
