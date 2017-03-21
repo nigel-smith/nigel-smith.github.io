@@ -10,7 +10,7 @@ description: Check back for updates often
 #baseurl:  # the subpath of your site, e.g. /blog/
 #url:  # the base hostname & protocol for your site
 #twitter_username: twitter_username
-#github_username:  github_username
+github_username:  nigel-smith
 
 # Build settings
 markdown: kramdown
@@ -18,17 +18,17 @@ markdown: kramdown
 highlighter: pygments
 
 # Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+#paginate: 15
+#paginate_path: "/blog/page:num/"
 
 
 collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
+#  poetry:
+#    output: true
+#    permalink: /poetry/:path/
 
 #
 #=======
