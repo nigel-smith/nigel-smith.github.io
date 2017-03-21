@@ -9,7 +9,7 @@ description: Check back for updates often
 #  A simple, whitespace, helvetica based portfolio theme.
 #baseurl:  # the subpath of your site, e.g. /blog/
 #url:  # the base hostname & protocol for your site
-#twitter_username: twitter_username
+twitter_username: @njsmith3
 github_username:  nigel-smith
 
 # Build settings
