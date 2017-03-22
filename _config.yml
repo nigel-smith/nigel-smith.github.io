@@ -7,7 +7,7 @@ description: Check back for updates often >
 
 #this means to ignore newlines until "baseurl:"
 #  A simple, whitespace, helvetica based portfolio theme.
-#baseurl:  # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 #url:  # the base hostname & protocol for your site
 twitter_username: @njsmith3
 github_username:  nigel-smith
@@ -29,6 +29,9 @@ collections:
 #  poetry:
 #    output: true
 #    permalink: /poetry/:path/
+   howe:
+    output: true
+    permalink: /home/:path/
 
 #
 #=======
