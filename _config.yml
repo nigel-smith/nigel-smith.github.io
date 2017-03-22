@@ -29,9 +29,12 @@ collections:
 #  poetry:
 #    output: true
 #    permalink: /poetry/:path/
-   home:
+   music:
     output: true
-    permalink: /home/:path/
+    permalink: /music/:path/
+   photography:
+    output: true
+    permalink: /photography/:path/
 
 #
 #=======
