@@ -29,7 +29,7 @@ collections:
 #  poetry:
 #    output: true
 #    permalink: /poetry/:path/
-   howe:
+   home:
     output: true
     permalink: /home/:path/
 
